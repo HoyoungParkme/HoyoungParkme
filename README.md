@@ -3,7 +3,7 @@
 ---
 
 ## 👋 소개
-안녕하세요! 저는 박호영입니다. 태블로 컨설턴트로 일하며 데이터 애널리스트(DA), 데이터 사이언티스트(DS), 그리고 분석가(A)로 활동하고 있습니다. AI 웹 서비스 배포에 관심이 많습니다.
+안녕하세요! 저는 박호영입니다. 태블로 컨설턴트로 일하며 DA, DS, 그리고 AI 개발자로 활동하고 있습니다.
 
 ---
 
@@ -38,16 +38,15 @@
 
 ## 🏅 자격증
 
-- Tableau Desktop Specialist
+- SQL개발자(SQLD)
 - 데이터 분석 준전문가(ADsP)
-- TensorFlow Developer Certificate
-
+- 빅데이터 분석기사(필기)
 ---
 
 ## 📫 연락처
 
-- 이메일: [your_email@example.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 블로그: [Your Blog](https://yourblog.com)
+- 이메일: [hoyoungpark.ds@gmail.com]
+- LinkedIn: [준비중)
+- 포토폴리오: [준비중](준비중)
 
 ---
