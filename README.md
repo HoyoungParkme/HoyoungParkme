@@ -1,8 +1,7 @@
-# 💻 박호영의 깃허브 페이지
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=92B5DE&height=300&section=header&text=My%20Coding%20Journey&fontSize=90&fontColor=FFFFFF)
 
----
 
-## 👋 소개
+## 👋 About Me
 안녕하세요! 저는 박호영입니다. 태블로 컨설턴트로 일하며 DA, DS, 그리고 AI 개발자로 활동하고 있습니다.
 
 ---
