@@ -31,7 +31,7 @@
 
 ## 📂 Projects
 
-- **CNN 기반 실시간 사용자 얼굴 감정 분석 및 감정에 맞는 노래 추천**
+- **[CNN 기반 실시간 사용자 얼굴 감정 분석 및 감정에 맞는 노래 추천](https://github.com/HoyoungParkme/music_recommender)**
 
 ---
 
