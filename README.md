@@ -37,9 +37,9 @@
 
 ## 🏅 Certifications
 
-- SQL개발자(SQLD)
+- SQLD
 - 데이터 분석 준전문가(ADsP)
-- 빅데이터 분석기사(필기)
+- 빅데이터 분석기사
 ---
 
 ## 📫 Contact Me
