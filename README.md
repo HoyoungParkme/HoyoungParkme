@@ -47,8 +47,8 @@
 
 ## 📫 Contact Me
 
-- 이메일: [hoyoungpark.ds@gmail.com]
-- LinkedIn: [준비중)
-- 포토폴리오: [준비중](준비중)
+- 이메일: hoyoungpark.ds@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hoyoungpark/
+- 포토폴리오: https://hoyoungparkme.github.io/my_blog/
 
 ---
