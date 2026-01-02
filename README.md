@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=92B5DE&height=300&section=header&text=My%20Coding%20Journey&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Simple%20Is%20Best&fontSize=80&fontColor=000000)
 
 ## 👋 About Me
 옆집 할아버지 할머니도 협업이 가능한 직관적인 코드와 명확한 설계.</br>
