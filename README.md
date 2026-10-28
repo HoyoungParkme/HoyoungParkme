@@ -9,7 +9,7 @@ $ cat principle.txt
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="398">
 
 ### ~/now
 
@@ -17,7 +17,7 @@ $ cat principle.txt
 `[02]` GraphRAG 기반 BI 에이전트
 
 </td>
-<td valign="top">
+<td valign="top" width="398">
 
 ### ~/career
 
