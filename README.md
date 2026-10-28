@@ -32,11 +32,11 @@ $ cat principle.txt
 ## ~/git log --blog
 
 <!-- BLOG-POST-LIST:START -->
+`2026.10.28` [그림으로 한 장씩 배우는 무료 개발 공부 사이트, 개발자 학습 노트](https://hypark.tistory.com/35)<br>
 `2026.06.01` [GraphRAG에서 존재하지 않는 노드와 관계로 Cypher를 생성하던 문제](https://hypark.tistory.com/30)<br>
 `2026.05.29` [Socket Connect Full 에러가 Worker 재시작으로 가려졌던 문제](https://hypark.tistory.com/29)<br>
 `2026.05.28` [Agent Tool Name이 길어졌을 때 발생한 Tool Catch Miss](https://hypark.tistory.com/28)<br>
 `2026.05.27` [카지노 이상탐지 AI 개발기 1편: 정상/비정상 2진분류 모델로는 부족했던 이유](https://hypark.tistory.com/27)<br>
-`2026.05.27` [Tableau AI Platform 개발기 1편: VDS 기반 Agent로는 부족했던 이유](https://hypark.tistory.com/26)<br>
 <!-- BLOG-POST-LIST:END -->
 
 ## ~/certs
