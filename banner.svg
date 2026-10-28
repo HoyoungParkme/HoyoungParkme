@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250" role="img" aria-labelledby="title">
+<title id="title">Simple is best. — 명세서부터 Agent까지, 동화책처럼 읽히는 코드를 쓰는 AI Agent 개발자</title>
+<defs>
+<clipPath id="body"><rect x="1" y="37" width="838" height="212" rx="9"/></clipPath>
+<clipPath id="type0"><rect x="32" y="80" height="60" width="0"><animate attributeName="width" values="0;0;360;360;0;0" keyTimes="0.0000;0.0000;0.1000;0.2500;0.3000;1.0000" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="type1"><rect x="32" y="80" height="60" width="0"><animate attributeName="width" values="0;0;552;552;0;0" keyTimes="0.0000;0.3333;0.4333;0.5833;0.6333;1.0000" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="type2"><rect x="32" y="80" height="60" width="0"><animate attributeName="width" values="0;0;432;432;0;0" keyTimes="0.0000;0.6667;0.7667;0.9167;0.9667;1.0000" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<style>
+.mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+.sans { font-family: Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif; }
+</style>
+
+<!-- 터미널 창 -->
+<rect x="0.5" y="0.5" width="839" height="249" rx="10" fill="#150d1c" stroke="#2a1d33"/>
+<line x1="1" y1="36.5" x2="839" y2="36.5" stroke="#2a1d33"/>
+<circle cx="22" cy="18" r="5" fill="#3a2a44"/>
+<circle cx="40" cy="18" r="5" fill="#3a2a44"/>
+<circle cx="58" cy="18" r="5" fill="#3a2a44"/>
+<text x="78" y="22" class="mono" font-size="11" fill="#8c7d99">hyp@github: ~</text>
+
+<!-- 뒤에서 위로 흐르는 로그 -->
+<g clip-path="url(#body)">
+<g class="mono" font-size="12" fill="#2f2439">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="0 -330" dur="28s" repeatCount="indefinite"/>
+<text x="32" y="60"><tspan fill="#4b3a5c">[INFO]</tspan> spec.load('PRD.md') → agent.plan()</text>
+<text x="32" y="82"><tspan fill="#4b3a5c">[INFO]</tspan> rag.retrieve(query, top_k=5)</text>
+<text x="32" y="104"><tspan fill="#6b5233">[WARN]</tspan> cypher: relation not found in schema graph</text>
+<text x="32" y="126"><tspan fill="#245a5c">[FIX]</tspan> validate nodes &amp; relations before generating Cypher</text>
+<text x="32" y="148"><tspan fill="#4b3a5c">[INFO]</tspan> worker.restart()  # socket connect full</text>
+<text x="32" y="170"><tspan fill="#6b2d4a">[ERROR]</tspan> restart hid the real cause</text>
+<text x="32" y="192"><tspan fill="#245a5c">[FIX]</tspan> trace connection pool, not the worker</text>
+<text x="32" y="214"><tspan fill="#6b5233">[WARN]</tspan> tool name too long → tool catch miss</text>
+<text x="32" y="236"><tspan fill="#245a5c">[FIX]</tspan> shorten tool names, keep them readable</text>
+<text x="32" y="258"><tspan fill="#4b3a5c">[INFO]</tspan> anomaly.classify()  # normal / abnormal</text>
+<text x="32" y="280"><tspan fill="#6b5233">[WARN]</tspan> binary classification is not enough</text>
+<text x="32" y="302"><tspan fill="#4b3a5c">[INFO]</tspan> master_data.clean(rules=company_std)</text>
+<text x="32" y="324"><tspan fill="#4b3a5c">[INFO]</tspan> agent.review(unmatched_values)</text>
+<text x="32" y="346"><tspan fill="#2d5a3a">[OK]</tspan> spec ↔ code synced</text>
+<text x="32" y="368"><tspan fill="#4b3a5c">[INFO]</tspan> git commit -m 'Simple is best.'</text>
+<text x="32" y="390"><tspan fill="#4b3a5c">[INFO]</tspan> spec.load('PRD.md') → agent.plan()</text>
+<text x="32" y="412"><tspan fill="#4b3a5c">[INFO]</tspan> rag.retrieve(query, top_k=5)</text>
+<text x="32" y="434"><tspan fill="#6b5233">[WARN]</tspan> cypher: relation not found in schema graph</text>
+<text x="32" y="456"><tspan fill="#245a5c">[FIX]</tspan> validate nodes &amp; relations before generating Cypher</text>
+<text x="32" y="478"><tspan fill="#4b3a5c">[INFO]</tspan> worker.restart()  # socket connect full</text>
+<text x="32" y="500"><tspan fill="#6b2d4a">[ERROR]</tspan> restart hid the real cause</text>
+<text x="32" y="522"><tspan fill="#245a5c">[FIX]</tspan> trace connection pool, not the worker</text>
+<text x="32" y="544"><tspan fill="#6b5233">[WARN]</tspan> tool name too long → tool catch miss</text>
+<text x="32" y="566"><tspan fill="#245a5c">[FIX]</tspan> shorten tool names, keep them readable</text>
+<text x="32" y="588"><tspan fill="#4b3a5c">[INFO]</tspan> anomaly.classify()  # normal / abnormal</text>
+<text x="32" y="610"><tspan fill="#6b5233">[WARN]</tspan> binary classification is not enough</text>
+<text x="32" y="632"><tspan fill="#4b3a5c">[INFO]</tspan> master_data.clean(rules=company_std)</text>
+<text x="32" y="654"><tspan fill="#4b3a5c">[INFO]</tspan> agent.review(unmatched_values)</text>
+<text x="32" y="676"><tspan fill="#2d5a3a">[OK]</tspan> spec ↔ code synced</text>
+<text x="32" y="698"><tspan fill="#4b3a5c">[INFO]</tspan> git commit -m 'Simple is best.'</text>
+</g>
+</g>
+
+<!-- 타이핑 문구 -->
+<g class="mono" font-size="40" font-weight="800" fill="#f5f0fa">
+<text x="32" y="124" textLength="360" lengthAdjust="spacingAndGlyphs" clip-path="url(#type0)">Simple is best.</text>
+<text x="32" y="124" textLength="552" lengthAdjust="spacingAndGlyphs" clip-path="url(#type1)">Spec first, then agent.</text>
+<text x="32" y="124" textLength="432" lengthAdjust="spacingAndGlyphs" clip-path="url(#type2)">Readable &gt; Clever.</text>
+</g>
+<rect y="94" width="16" height="36" fill="#ff4f9a">
+<animate attributeName="x" values="38;398;398;38;38;590;590;38;38;470;470;38;38" keyTimes="0.0000;0.1000;0.2500;0.3000;0.3333;0.4333;0.5833;0.6333;0.6667;0.7667;0.9167;0.9667;1.0000" dur="12s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+
+<!-- 부제목과 프롬프트 -->
+<text x="32" y="168" class="sans" font-size="15" fill="#c9bdd6">명세서부터 Agent까지 — 동화책처럼 읽히는 코드를 쓰는 AI Agent 개발자</text>
+<text x="32" y="210" class="mono" font-size="13"><tspan fill="#b18cff">hyp@github</tspan><tspan fill="#8c7d99">:~$</tspan><tspan fill="#e9e1f2"> ./build --from spec.md --to agent</tspan></text>
+</svg>

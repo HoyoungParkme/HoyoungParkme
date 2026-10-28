@@ -1,32 +1,47 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Simple%20Is%20Best&fontSize=80&fontColor=000000)
+<img src="./banner.svg" width="100%" alt="Simple is best. — 명세서부터 Agent까지, 동화책처럼 읽히는 코드를 쓰는 AI Agent 개발자" />
 
-## 👋 About Me
-옆집 할아버지 할머니도 협업이 가능한 직관적인 코드와 명확한 설계.</br>
-안녕하세요 AI 서비스 개발자 박호영입니다.
+```console
+$ whoami
+박호영 · 디포커스 AI팀 · LangGraph · RAG · FastAPI로 기업용 AI Agent를 설계하고 만듭니다
+$ cat principle.txt
+옆집 할아버지 할머니도 협업할 수 있는 코드와 명확한 설계
+```
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 📂 Work Experience
+### ~/now
 
-- 파라다이스 호텔 카지노 이상탐지 시스템
-- Tableau Agent 개발
-- 레거시 시스템 현대화 (COBOL to Java)
-- 상담사 챗봇 개발(고객 감정분석 및 AI 요약 기능)
+`[01]` 정유사 기준정보 정비 플랫폼<br>
+`[02]` GraphRAG 기반 BI 에이전트
 
+</td>
+<td valign="top" width="50%">
 
----
+### ~/career
 
-## 🏅 Certifications
-- SQLD
-- 데이터 분석 준전문가(ADsP)
-- 빅데이터 분석기사
-- Salesforce Certified Data Cloud Consultant
+`2023.08` 고려대 세종 응용통계 졸업<br>
+`2024.07` 디포커스 입사 · Data Biz 본부<br>
+`HEAD →` AI팀 선임 · LLM / RAG / Agent
 
----
+</td>
+</tr>
+</table>
 
-## 📫 Contact Me
-- 이메일: hoyoungpark.ds@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hoyoungpark/
-- 포토폴리오: https://hoyoungparkme.github.io/my_blog/
+## ~/git log --blog
 
----
+<!-- BLOG-POST-LIST:START -->
+`2026.06.01` [GraphRAG에서 존재하지 않는 노드와 관계로 Cypher를 생성하던 문제](https://hypark.tistory.com/30)<br>
+`2026.05.29` [Socket Connect Full 에러가 Worker 재시작으로 가려졌던 문제](https://hypark.tistory.com/29)<br>
+`2026.05.28` [Agent Tool Name이 길어졌을 때 발생한 Tool Catch Miss](https://hypark.tistory.com/28)<br>
+`2026.05.27` [카지노 이상탐지 AI 개발기 1편: 정상/비정상 2진분류 모델로는 부족했던 이유](https://hypark.tistory.com/27)<br>
+`2026.05.27` [Tableau AI Platform 개발기 1편: VDS 기반 Agent로는 부족했던 이유](https://hypark.tistory.com/26)<br>
+<!-- BLOG-POST-LIST:END -->
+
+## ~/certs
+
+`2025.12` Salesforce Certified Data Cloud Consultant<br>
+`2024.12` 빅데이터분석기사<br>
+`2024.03` 데이터분석 준전문가 (ADsP)<br>
+`2023.10` SQL 개발자 (SQLD)
