@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-labelledby="title">
+<title id="title">~/certs — 자격증</title>
+<style>
+.mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+.sans { font-family: Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif; }
+.body { fill: #e9e1f2; font-size: 14px; }
+.head { fill: #f5f0fa; font-size: 17px; font-weight: 700; }
+.tilde { fill: #ff4f9a; }
+.date { fill: #e3b341; font-size: 12px; }
+</style>
+
+<rect x="0.5" y="0.5" width="839" height="189" rx="10" fill="#150d1c" stroke="#2a1d33"/>
+
+<text x="32" y="40" class="mono head"><tspan class="tilde">~/</tspan>certs</text>
+<text x="32" y="74" class="sans body"><tspan class="mono date">2025.12</tspan>  Salesforce Certified Data Cloud Consultant</text>
+<text x="32" y="102" class="sans body"><tspan class="mono date">2024.12</tspan>  빅데이터분석기사</text>
+<text x="32" y="130" class="sans body"><tspan class="mono date">2024.03</tspan>  데이터분석 준전문가 (ADsP)</text>
+<text x="32" y="158" class="sans body"><tspan class="mono date">2023.10</tspan>  SQL 개발자 (SQLD)</text>
+</svg>

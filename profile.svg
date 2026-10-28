@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="290" viewBox="0 0 840 290" role="img" aria-labelledby="title">
+<title id="title">whoami · ~/now · ~/career</title>
+<style>
+.mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+.sans { font-family: Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif; }
+.prompt { fill: #8c7d99; font-size: 13px; }
+.body { fill: #e9e1f2; font-size: 14px; }
+.head { fill: #f5f0fa; font-size: 17px; font-weight: 700; }
+.tilde { fill: #ff4f9a; }
+.num { fill: #2de2e6; font-size: 12px; }
+.date { fill: #e3b341; font-size: 12px; }
+</style>
+
+<!-- 패널 바탕 -->
+<rect x="0.5" y="0.5" width="839" height="289" rx="10" fill="#150d1c" stroke="#2a1d33"/>
+
+<!-- whoami -->
+<text x="32" y="36" class="mono prompt">$ whoami</text>
+<text x="32" y="60" class="sans body">박호영 · 디포커스 AI팀 · LangGraph · RAG · FastAPI로 기업용 AI Agent를 설계하고 만듭니다</text>
+<text x="32" y="92" class="mono prompt">$ cat principle.txt</text>
+<text x="32" y="116" class="sans body">옆집 할아버지 할머니도 협업할 수 있는 코드와 명확한 설계</text>
+
+<line x1="32" y1="142" x2="808" y2="142" stroke="#2a1d33"/>
+
+<!-- ~/now (왼쪽) -->
+<text x="32" y="176" class="mono head"><tspan class="tilde">~/</tspan>now</text>
+<text x="32" y="210" class="sans body"><tspan class="mono num">[01]</tspan>  정유사 기준정보 정비 플랫폼</text>
+<text x="32" y="238" class="sans body"><tspan class="mono num">[02]</tspan>  GraphRAG 기반 BI 에이전트</text>
+
+<!-- ~/career (오른쪽) -->
+<text x="440" y="176" class="mono head"><tspan class="tilde">~/</tspan>career</text>
+<text x="440" y="210" class="sans body"><tspan class="mono date">2023.08</tspan>  고려대 세종 응용통계 졸업</text>
+<text x="440" y="238" class="sans body"><tspan class="mono date">2024.07</tspan>  디포커스 입사 · Data Biz 본부</text>
+<text x="440" y="266" class="sans body"><tspan class="mono num">HEAD →</tspan>  AI팀 선임 · LLM / RAG / Agent</text>
+</svg>

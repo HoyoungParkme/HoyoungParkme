@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="218" viewBox="0 0 840 218" role="img" aria-labelledby="title">
+<title id="title">~/git log --blog — 최근 블로그 글</title>
+<style>
+.mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', monospace; }
+.sans { font-family: Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif; }
+.body { fill: #e9e1f2; font-size: 14px; }
+.head { fill: #f5f0fa; font-size: 17px; font-weight: 700; }
+.tilde { fill: #ff4f9a; }
+.date { fill: #e3b341; font-size: 12px; }
+.hint { fill: #8c7d99; font-size: 12px; }
+</style>
+<rect x="0.5" y="0.5" width="839" height="217" rx="10" fill="#150d1c" stroke="#2a1d33"/>
+<text x="32" y="40" class="mono head"><tspan class="tilde">~/</tspan>git log --blog</text>
+<text x="808" y="40" text-anchor="end" class="mono hint">hypark.tistory.com →</text>
+<text x="32" y="76" class="sans body"><tspan class="mono date">2026.06.01</tspan>  GraphRAG에서 존재하지 않는 노드와 관계로 Cypher를 생성하던 문제</text>
+<text x="32" y="104" class="sans body"><tspan class="mono date">2026.05.29</tspan>  Socket Connect Full 에러가 Worker 재시작으로 가려졌던 문제</text>
+<text x="32" y="132" class="sans body"><tspan class="mono date">2026.05.28</tspan>  Agent Tool Name이 길어졌을 때 발생한 Tool Catch Miss</text>
+<text x="32" y="160" class="sans body"><tspan class="mono date">2026.05.27</tspan>  카지노 이상탐지 AI 개발기 1편: 정상/비정상 2진분류 모델로는 부족했던 이유</text>
+<text x="32" y="188" class="sans body"><tspan class="mono date">2026.05.27</tspan>  Tableau AI Platform 개발기 1편: VDS 기반 Agent로는 부족했던 이유</text>
+</svg>
