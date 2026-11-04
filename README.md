@@ -32,11 +32,11 @@ $ cat principle.txt
 ## ~/git log --blog
 
 <!-- BLOG-POST-LIST:START -->
+`2026.11.04` [WSL2 Docker 서버 외부 접속 안 될 때: 0.0.0.0 바인딩&middot;방화벽을 다 열어도 안 되던 문제를 netsh portproxy로 해결](https://hypark.tistory.com/37)<br>
 `2026.10.29` [WSL2 '가상화가 활성화되지 않은 이 컴퓨터에서는 WSL2를 시작할 수 없습니다' 오류: VMware VM 중첩 가상화로 해결](https://hypark.tistory.com/36)<br>
 `2026.10.28` [그림으로 한 장씩 배우는 무료 개발 공부 사이트, 개발자 학습 노트](https://hypark.tistory.com/35)<br>
 `2026.06.01` [GraphRAG에서 존재하지 않는 노드와 관계로 Cypher를 생성하던 문제](https://hypark.tistory.com/30)<br>
 `2026.05.29` [Socket Connect Full 에러가 Worker 재시작으로 가려졌던 문제](https://hypark.tistory.com/29)<br>
-`2026.05.28` [Agent Tool Name이 길어졌을 때 발생한 Tool Catch Miss](https://hypark.tistory.com/28)<br>
 <!-- BLOG-POST-LIST:END -->
 
 ## ~/certs
